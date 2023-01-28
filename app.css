@@ -1,0 +1,157 @@
+body{
+    margin: 0;
+    padding: 0 ;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(190, 233, 61);
+    background-image: url("/img/42d5cbc7-ef46-4af6-bdce-a4f3a53924f7.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.ok{
+   height: 258px;
+   width: 377px;
+   margin-left: 37%;
+   border: 3px solid rgb(232, 228, 228);
+   box-shadow: 3px 5px 7px 7px grey;
+   transition: all 3s ease;
+}
+
+
+.last{
+    margin-left: 46%;
+    border: 2px solid rgb(11, 10, 10);
+    margin-top: 25px;
+    box-shadow: 2px 3px 2px 3px rgb(190, 7, 7);
+    transition: all 3s ease;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.last:hover{
+    box-shadow: 2px 3px 2px 3px rgb(16, 5, 174);
+    background-color: black;
+    color: white;
+}
+
+.link{
+     margin-left: 222px;
+    padding: 40px;
+    margin-top: 20px;
+    word-spacing: 88px;
+    font-size:large;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+
+.head{
+    justify-content: center;
+    margin-left: 40px;
+}
+
+
+
+.jyoti{
+    color: rgb(247, 240, 240);
+   margin-left: 20px;
+
+   
+}
+
+.link a{
+    color: black;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: white;
+    transition: all 1s ease;
+
+}
+
+.link a:hover{
+
+color: black;
+background-color: rgb(152, 37, 224);
+}
+
+
+.jyoti #section-HOME{
+    border: 3px solid white;
+    margin-right: 1245px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 2px 3px 2px 3px grey;
+    cursor: pointer;
+    transition: background 2s ease;
+}
+
+.jyoti #section-HOME:hover{
+
+    color: rgb(12, 12, 12);
+    background-color: rgb(86, 209, 113);
+
+}
+
+.jyoti #section-ABOUT{
+    border: 3px solid white;
+    background-color: black;
+    margin-right: 1235px;
+    transition: background 2s ease;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 2px 3px 2px 3px grey;
+}
+
+.jyoti #section-ABOUT:hover{
+
+    color: rgb(12, 12, 12);
+    background-color: rgb(13, 74, 155);
+
+}
+
+.jyoti #section-CONTACT{
+    border: 3px solid white;
+    background-color: black;
+    border-radius: 10px;
+    transition: background 2s ease;
+    cursor: pointer;
+    margin-right: 1210px;
+    box-shadow: 2px 3px 2px 3px grey;
+}
+
+.jyoti #section-CONTACT:hover{
+
+    color: rgb(12, 12, 12);
+    background-color: rgb(218, 5, 104);
+
+}
+
+.jyoti #section-PORTFOLIO{
+    border: 3px solid white;
+    margin-right: 1180px;
+    transition: background 2s ease;
+    cursor: pointer;
+    background-color: black;
+    box-shadow: 2px 3px 2px 3px grey;
+    border-radius: 10px;
+}
+
+.jyoti #section-PORTFOLIO:hover{
+
+    color: rgb(12, 12, 12);
+    background-color: rgb(88, 209, 32);
+
+}
+
+.first{
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
